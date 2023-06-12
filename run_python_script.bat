@@ -1,0 +1,1 @@
+"C:\Users\sherr\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\sherr\PycharmProjects\vocabBuilder\app.py"
